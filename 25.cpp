@@ -1,4 +1,5 @@
 //25-Liang Barsky Line Clipping
+#include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
 int main() 

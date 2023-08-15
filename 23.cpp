@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <stdlib.h>
+#include <conio.h>//Added for getch()
 #include <graphics.h>
 #include <math.h>
 
