@@ -5,7 +5,7 @@
 int main() 
 {
 	int gd=DETECT,gm;
-	initgraph(&gd,&gm,"C:\\TC\\BGI");
+	initgraph (&gd, &gm, "C:\\TurboC3\\BGI");
 	int x1,y1,x2,y2,xmax,xmin,ymax,ymin,xx1,yy1,xx2,yy2,dx,dy,i;
 	int p[4],q[4];
 	float t1,t2,t[4];
