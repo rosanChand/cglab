@@ -7,7 +7,7 @@ float round(float a);
 int main()
 {
 	int gd=DETECT,gm;
-	int x1,y1,x2,y2,steps,k; 
+	float x1,y1,x2,y2,steps,k; 
 	float xincr,yincr,x,y,dx,dy; 
 	printf("Name: Roshan Chand\n"); //Added
 	printf("Roll No: 123/21\n\n");	//Added
